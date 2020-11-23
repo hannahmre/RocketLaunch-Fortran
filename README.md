@@ -1,0 +1,2 @@
+# RocketLaunch-Fortran
+Program written in Fortran to calculate the first stages of a rocket launch. Program includes reading and storing file data, calculating density value, calculates the acceleration value for each second of rocket launch, calculates drag value for each second of launch, calculates velocity for each second of launch and prints/formats table data. Also prompts user to enter a time (in seconds) since launch and program will output data for that time.
